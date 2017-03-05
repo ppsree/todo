@@ -1,3 +1,3 @@
 function(){
-console.log("THisis my first function!");
+console.log("This is my first function!");
 }
